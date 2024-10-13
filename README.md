@@ -1,2 +1,2 @@
 # Contact-List
- A Contact List.
+ A contact list.
